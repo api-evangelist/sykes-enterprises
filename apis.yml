@@ -28,6 +28,8 @@ apis:
     description: >-
       The Sykes Enterprises API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/sykes
   - type: Website
     url: https://www.sykes.com
 maintainers:
